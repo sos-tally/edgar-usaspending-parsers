@@ -1,0 +1,11 @@
+Description:           Daily Index of EDGAR Dissemination Feed by Company Name
+Last Data Received:    Nov 06, 2026
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+
+CIK|Company Name|Form Type|Date Filed|File Name
+--------------------------------------------------------------------------------
+1999999|Acme Robotics & AI, Inc.|D|20261106|edgar/data/1999999/0001999999-26-000001.txt
+1888888|Blue Pond Capital Fund LP|D/A|20261106|edgar/data/1888888/0001888888-26-000004.txt
+320193|Apple Inc.|10-Q|20261106|edgar/data/320193/0000320193-26-000100.txt
+1777777|Green Leaf Bio Corp|D|20261106|edgar/data/1777777/0001777777-26-000002.txt

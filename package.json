@@ -1,0 +1,15 @@
+{
+    "name": "edgar-usaspending-parsers",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "description": "Dependency-free JavaScript helpers for SEC EDGAR Form D and 8-K filings and for the USAspending award search API.",
+    "scripts": {
+        "test": "node form-d/test/test.js && node sec-8k/test/test.js && node usaspending/test/test.js",
+        "examples": "node form-d/example.js && node sec-8k/example.js && node usaspending/example.js"
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "license": "MIT"
+}
